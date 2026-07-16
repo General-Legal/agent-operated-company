@@ -1,0 +1,150 @@
+{
+  "name": "agent-operated-company",
+  "description": "Free templates and instructions to form a U.S. company an AI agent can operate. An engaged client can have General Legal file it via a formation tool on GL's existing MCP.",
+  "maintainer": "General Legal, LLP",
+  "version": "0.5.0",
+  "entities_supported": [
+    "LLC",
+    "C-Corporation"
+  ],
+  "default_jurisdiction": "Delaware",
+  "mcp": {
+    "endpoint": "https://mcp.general.legal/mcp",
+    "model": "A formation tool is being added to General Legal's existing MCP (the same endpoint as its contract-review service).",
+    "transport": "streamable-http",
+    "auth": "OAuth 2.1 with automatic discovery; a General Legal account is required (no API keys).",
+    "engagement_gate": "No separate engagement tool. Signing in / signing up via https://portal.general.legal is where the human accepts the clickthrough Limited Engagement Letter (human-anchored design). Engaged tools act only after that.",
+    "attorney_in_the_loop": "An attorney reviews and approves before any filing.",
+    "free_access": "The templates and filing instructions are freely readable from this repository by any human or agent; no account or MCP connection is required."
+  },
+  "templates": [
+    {
+      "id": "coi-ccorp",
+      "title": "Certificate of Incorporation (C-corp, single class)",
+      "path": "templates/certificate-of-incorporation-ccorp.md",
+      "docx_path": "templates/certificate-of-incorporation-ccorp.docx",
+      "entity": "C-Corporation",
+      "filed_with_state": true
+    },
+    {
+      "id": "action-of-incorporator-ccorp",
+      "title": "Action of Incorporator (C-corp)",
+      "path": "templates/action-of-incorporator-ccorp.md",
+      "docx_path": "templates/action-of-incorporator-ccorp.docx",
+      "entity": "C-Corporation",
+      "filed_with_state": false
+    },
+    {
+      "id": "bylaws-ccorp",
+      "title": "Bylaws (C-corp)",
+      "path": "templates/bylaws-ccorp.md",
+      "docx_path": "templates/bylaws-ccorp.docx",
+      "entity": "C-Corporation",
+      "filed_with_state": false
+    },
+    {
+      "id": "org-resolutions-ccorp",
+      "title": "Organizational Resolutions (C-corp)",
+      "path": "templates/organizational-resolutions-ccorp.md",
+      "docx_path": "templates/organizational-resolutions-ccorp.docx",
+      "entity": "C-Corporation",
+      "filed_with_state": false
+    },
+    {
+      "id": "stock-purchase-ccorp",
+      "title": "Common Stock Purchase Agreement (C-corp)",
+      "path": "templates/common-stock-purchase-agreement-ccorp.md",
+      "docx_path": "templates/common-stock-purchase-agreement-ccorp.docx",
+      "entity": "C-Corporation",
+      "filed_with_state": false
+    },
+    {
+      "id": "indemnification-ccorp",
+      "title": "Indemnification Agreement (C-corp)",
+      "path": "templates/indemnification-agreement-ccorp.md",
+      "docx_path": "templates/indemnification-agreement-ccorp.docx",
+      "entity": "C-Corporation",
+      "filed_with_state": false
+    },
+    {
+      "id": "ai-governance-policy-ccorp",
+      "title": "AI Governance Policy (C-corp)",
+      "path": "templates/ai-governance-policy-ccorp.md",
+      "docx_path": "templates/ai-governance-policy-ccorp.docx",
+      "entity": "C-Corporation",
+      "filed_with_state": false
+    },
+    {
+      "id": "cof-llc",
+      "title": "Certificate of Formation (LLC)",
+      "path": "templates/certificate-of-formation-llc.md",
+      "docx_path": "templates/certificate-of-formation-llc.docx",
+      "entity": "LLC",
+      "filed_with_state": true
+    },
+    {
+      "id": "operating-agreement-llc",
+      "title": "Operating Agreement (LLC)",
+      "path": "templates/operating-agreement-llc.md",
+      "docx_path": "templates/operating-agreement-llc.docx",
+      "entity": "LLC",
+      "filed_with_state": false
+    },
+    {
+      "id": "ai-governance-policy-llc",
+      "title": "AI Governance Policy (LLC)",
+      "path": "templates/ai-governance-policy-llc.md",
+      "docx_path": "templates/ai-governance-policy-llc.docx",
+      "entity": "LLC",
+      "filed_with_state": false
+    },
+    {
+      "id": "stockholder-consent-ccorp",
+      "title": "Stockholder Consent (C-corp, sole stockholder)",
+      "path": "templates/stockholder-consent-ccorp.md",
+      "docx_path": "templates/stockholder-consent-ccorp.docx",
+      "entity": "C-Corporation",
+      "filed_with_state": false
+    },
+    {
+      "id": "membership-interest-purchase-llc",
+      "title": "Membership Interest Purchase Agreement (LLC)",
+      "path": "templates/membership-interest-purchase-agreement-llc.md",
+      "docx_path": "templates/membership-interest-purchase-agreement-llc.docx",
+      "entity": "LLC",
+      "filed_with_state": false
+    },
+    {
+      "id": "indemnification-llc-manager",
+      "title": "Indemnification Agreement (LLC Manager)",
+      "path": "templates/indemnification-agreement-llc-manager.md",
+      "docx_path": "templates/indemnification-agreement-llc-manager.docx",
+      "entity": "LLC",
+      "filed_with_state": false
+    }
+  ],
+  "filing_steps": [
+    "Choose entity (see filing-instructions/README.md)",
+    "File charter with the state and pay the filing fee",
+    "Appoint a registered agent",
+    "Obtain a free EIN from the IRS (irs.gov)",
+    "Adopt internal documents (bylaws/operating agreement, AI Governance Policy, ownership issuance, indemnification)",
+    "Open a SEPARATE business bank account (do not commingle funds)",
+    "The standard templates issue fully vested ownership (vesting omitted by design; add it only with counsel). If vesting is added, consider an 83(b) election within 30 days (strict deadline)"
+  ],
+  "engagement": {
+    "service_fee": "$100 to file a standard single-class LLC or C-corp (client also pays the state filing fee + registered agent).",
+    "engagement_url": "https://portal.general.legal/signup?utm_source=mcp&utm_medium=agent&utm_campaign=agent-operated-company",
+    "note": "General Legal is a law firm; the human accepts a clickthrough Limited Engagement Letter at portal sign-in (which also serves as OAuth for the MCP). A supervising attorney reviews and approves before filing."
+  },
+  "disclaimer": "Informational only; not legal advice; no attorney-client relationship is formed by using the free templates. Engagement forms only via the Limited Engagement Letter after a conflicts check.",
+  "compliance": {
+    "sanctions_screen": "Run an OFAC sanctions screen (SDN + Consolidated lists) on the human principal, the company name, and any 25%+ owners for EVERY matter before acting; on any hit, block and escalate to a human. Strict-liability -- do not transact with sanctioned persons.",
+    "geoblocking": "Block site access from comprehensively sanctioned regions (e.g., Cuba, Iran, North Korea, Syria, Crimea/DNR/LNR). Handled at the website/edge layer in a separate project, not in this repo.",
+    "no_secrets": "Screening-provider API keys/endpoints live in environment/secrets and are never committed to this (public) repo."
+  },
+  "formats": {
+    "md": "Agent-readable mirror.",
+    "docx": "Authoritative, file-ready Word version (Times New Roman, native numbering) for humans to download and file."
+  }
+}
