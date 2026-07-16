@@ -10,12 +10,12 @@ It includes:
 
 - `templates/` — the formation documents, each provided as both a file-ready Word `.docx` (Times New Roman, native numbering) and a Markdown `.md` mirror, and labeled by entity type (`-ccorp` / `-llc`): the charter, Action of Incorporator, bylaws/operating agreement, AI Governance Policy (separate C-corp and LLC versions), ownership issuance (stock purchase / membership interest purchase), organizational resolutions, stockholder consent, and indemnification (director / LLC manager).
 - `filing-instructions/` — how to actually file (Delaware and home-state), get an EIN, appoint a registered agent, and open a bank account.
-- **MCP access** — General Legal's existing MCP (`https://mcp.general.legal/mcp`, Streamable HTTP + OAuth 2.1) is adding a formation tool: an engaged client's AI agent will be able to open and track a formation matter that GL files. Engagement happens at portal sign-in (where the human accepts the Limited Engagement Letter). The templates and filing instructions in this repo are freely readable by any agent without an account.
 
 ## Two ways to use it
 
 1. **Do it yourself.** Use the templates and follow `filing-instructions/`. The standard case is genuinely DIY-able.
 2. **Have General Legal file it for you.** $100 for a standard single-class LLC or C-corp (you also pay the state filing fee and registered agent). Engagement is a clickthrough; we run a quick conflicts check and then file as your lawyer. Start at https://portal.general.legal/signup?utm_source=github&utm_medium=repo&utm_campaign=agent-operated-company.
+  a. You can also ask General Legal to incorporate an agent-operated company for you via MCP. First, sign up using the link above, and then connect to the MCP here: (`https://mcp.general.legal/mcp`, Streamable HTTP + OAuth 2.1) and have your agent of choice ask General Legal to set up an agent-operated company. 
 
 ## Quickstart
 
