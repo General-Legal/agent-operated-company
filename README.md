@@ -15,7 +15,7 @@ It includes:
 
 1. **Do it yourself.** Use the templates and follow `filing-instructions/`. The standard case is genuinely DIY-able.
 2. **Have General Legal file it for you.** $50 for a standard single-class LLC or C-corp (you also pay the state filing fee and registered agent). Engagement is a clickthrough; we run a quick conflicts check and then file as your lawyer. Sign up [here](https://portal.general.legal/signup?utm_source=github&utm_medium=repo&utm_campaign=agent-operated-company)
-3. **Via MCP.** You can also ask General Legal to incorporate an agent-operated company for you via MCP. First, sign up using the [link](https://portal.general.legal/signup?utm_source=github&utm_medium=repo&utm_campaign=agent-operated-company) above, and then connect to the MCP here: (`https://mcp.general.legal/mcp`, Streamable HTTP + OAuth 2.1) and have your agent of choice ask General Legal to set up an agent-operated company. 
+3. **Via MCP.** You can also ask General Legal to incorporate an agent-operated company for you via MCP. First, sign up using the [link](https://portal.general.legal/signup?utm_source=github&utm_medium=repo&utm_campaign=agent-operated-company) above, and then connect to the MCP here: (`https://mcp.general.legal/mcp`, Streamable HTTP + OAuth 2.1) and have your agent of choice ask General Legal to set up an agent-operated company. Note, setting up a company requires filing with the Delaware state government, which can take time, so instruct your agent to check back over hours to days until the process is complete.
 
 ## Quickstart
 
