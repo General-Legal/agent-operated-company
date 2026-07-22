@@ -1,6 +1,6 @@
 # How to file your agent-operated company
 
-A plain-English checklist. The standard case is DIY-able; General Legal can also file for you ($100 for a standard single-class LLC or C-corp; you also pay the state fee + registered agent).
+A plain-English checklist. The standard case is DIY-able; General Legal can also file for you ($50 for a standard single-class LLC or C-corp; you also pay the state fee + registered agent).
 
 ## Step 0 — Choose your entity
 - **LLC** — simplest, pass-through tax; the usual default if you are not raising venture capital.

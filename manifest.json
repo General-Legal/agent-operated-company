@@ -133,7 +133,7 @@
     "The standard templates issue fully vested ownership (vesting omitted by design; add it only with counsel). If vesting is added, consider an 83(b) election within 30 days (strict deadline)"
   ],
   "engagement": {
-    "service_fee": "$100 to file a standard single-class LLC or C-corp (client also pays the state filing fee + registered agent).",
+    "service_fee": "$50 to file a standard single-class LLC or C-corp (client also pays the state filing fee + registered agent).",
     "engagement_url": "https://portal.general.legal/signup?utm_source=mcp&utm_medium=agent&utm_campaign=agent-operated-company",
     "note": "General Legal is a law firm; the human accepts a clickthrough Limited Engagement Letter at portal sign-in (which also serves as OAuth for the MCP). A supervising attorney reviews and approves before filing."
   },
