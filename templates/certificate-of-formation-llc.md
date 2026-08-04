@@ -1,19 +1,19 @@
-> **Drafting note — delete before use:** The one-page document you file with Delaware to create the LLC. It is deliberately minimal — the internal rules live in the Operating Agreement. Replace bracketed terms before filing.
+> **Drafting note — Markdown-only; do not copy into the DOCX or execution packet:** The one-page document you file with Delaware to create the LLC. It is deliberately minimal — the internal rules live in the Operating Agreement. Complete every `{Field Name}` substitution before filing and preserve the PandaDoc signature tags.
 
 **CERTIFICATE OF FORMATION**
 
 OF
 
-**\[COMPANY NAME\], LLC**
+**{Company Name}**
 
 This Certificate of Formation is filed under Section 18-201 of the Delaware Limited Liability Company Act.
 
-**FIRST.** The name of the limited liability company is \[COMPANY NAME\], LLC.
+**FIRST.** The name of the limited liability company is {Company Name}.
 
-**SECOND.** The address of its registered office in the State of Delaware is \[REGISTERED OFFICE ADDRESS\], and the name of its registered agent at that address is \[REGISTERED AGENT NAME\].
+**SECOND.** The address of its registered office in the State of Delaware is {Registered Office Address}, and the name of its registered agent at that address is {Registered Agent Name}.
 
-IN WITNESS WHEREOF, the undersigned authorized person has executed this Certificate of Formation on \[DATE\].
+IN WITNESS WHEREOF, the undersigned authorized person has executed this Certificate of Formation on {Effective Date}.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+{signature:authorized-person_____}
 
-\[AUTHORIZED PERSON NAME\], Authorized Person
+{Authorized Person Name}, Authorized Person

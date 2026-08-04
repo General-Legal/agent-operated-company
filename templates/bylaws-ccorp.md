@@ -1,16 +1,16 @@
-> **Drafting note — delete before use:** Bylaws for a Delaware C-corporation built to be operated day-to-day by an AI agent under human oversight: Article XII establishes the AI-governance regime (electronic-agent authority, board-adopted AI Governance Policy, audit log, officer supervision). Adopt via the Action of Incorporator; pair with the AI Governance Policy. Section numbers are literal text, so update cross-references if you add or remove sections. Replace bracketed terms.
+> **Drafting note — Markdown-only; do not copy into the DOCX or execution packet:** Bylaws for a Delaware C-corporation built to be operated day-to-day by an AI agent under human oversight: Article XII establishes the AI-governance regime (electronic-agent authority, board-adopted AI Governance Policy, audit log, officer supervision). Adopt via the Action of Incorporator; pair with the AI Governance Policy. Section numbers are literal text, so update cross-references if you add or remove sections. Complete every `{Field Name}` substitution and preserve the PandaDoc signature tags.
 
-**<span class="smallcaps"><span class="underline">\[COMPANY NAME\], INC.</span></span>**
+**<span class="smallcaps"><span class="underline">{Company Name Upper}</span></span>**
 
 a Delaware corporation
 
 **<span class="underline">BYLAWS</span>**
 
-As Adopted \[INCORPORATION DATE\]
+As Adopted {Effective Date}
 
 # ARTICLE I: STOCKHOLDERS
 
-Section 1.1: **<span class="underline">Annual Meetings</span>.** Unless members of the Board of Directors (the “***Board***”) of \[COMPANY NAME\], Inc. (the “***Corporation***”) are elected by written consent in lieu of an annual meeting pursuant to Section 211(b) of the General Corporation Law of the State of Delaware as it may be amended from time to time (as so amended from time to time, the “***DGCL***”), an annual meeting of stockholders shall be held for the election of directors at such date and time as the Board shall each year fix. The meeting may be held either at a place, within or outside of the State of Delaware, or by means of remote communication, as the Board in its sole discretion may determine. Any proper business may be transacted at the annual meeting.
+Section 1.1: **<span class="underline">Annual Meetings</span>.** Unless members of the Board of Directors (the “***Board***”) of {Company Name} (the “***Corporation***”) are elected by written consent in lieu of an annual meeting pursuant to Section 211(b) of the General Corporation Law of the State of Delaware as it may be amended from time to time (as so amended from time to time, the “***DGCL***”), an annual meeting of stockholders shall be held for the election of directors at such date and time as the Board shall each year fix. The meeting may be held either at a place, within or outside of the State of Delaware, or by means of remote communication, as the Board in its sole discretion may determine. Any proper business may be transacted at the annual meeting.
 
 Section 1.2: **<span class="underline">Special Meetings</span>.** Special meetings of stockholders, for any purpose or purposes prescribed in the notice of the meeting, may be called by the Chairperson of the Board, the Chief Executive Officer, the holders of shares of the Corporation that are entitled to cast not less than 20% of the total number of votes entitled to be cast by all stockholders at such meeting (assuming the record date for determining stockholders entitled to vote at such meeting was the date the request to call such meeting was delivered to the Board as required herein), or by a majority of the members of the Board. Special meetings may not be called by any other person or persons. If a special meeting of stockholders is called by any person or persons other than by a majority of the members of the Board, then such person or persons shall request such meeting by delivering a written request to call such meeting to each member of the Board, and the Board shall then determine the time and date of such special meeting, which shall be held not more than 120 days nor less than 35 days after the written request to call such special meeting was delivered to each member of the Board. The special meeting may be held either at a place, within or outside of the State of Delaware, or by means of remote communication, as the Board in its sole discretion may determine. Business transacted at any special meeting of stockholders shall be limited to the purpose or purposes stated in the notice of the meeting, unless all stockholders entitled to vote are present and consent. If any stockholder seeks to send a request to call such a special meeting, neither the Corporation nor any of its directors shall be required to accept delivery of such request unless the request is in writing exclusively (and not in an electronic transmission) and delivered exclusively by hand (including, without limitation, overnight courier service) or by certified or registered mail, return receipt requested.
 
@@ -246,14 +246,14 @@ Section 12.8: **<span class="underline">Suspension on Incapacity or Unavailabili
 
 **OF**
 
-**<span class="smallcaps"><span class="underline">\[COMPANY NAME\], INC.</span></span>**
+**<span class="smallcaps"><span class="underline">{Company Name Upper}</span></span>**
 
 (a Delaware corporation)
 
-I, \[FOUNDER/PRINCIPAL 1 NAME\], certify that I am Secretary of \[COMPANY NAME\], Inc., a Delaware corporation (the “***Corporation***”), that I am duly authorized to make and deliver this certification, that the attached Bylaws are a true and complete copy of the Bylaws of the Corporation in effect as of the date of this certificate.
+I, {Officer Name}, certify that I am Secretary of {Company Name}, a Delaware corporation (the “***Corporation***”), that I am duly authorized to make and deliver this certification, that the attached Bylaws are a true and complete copy of the Bylaws of the Corporation in effect as of the date of this certificate.
 
-Dated: \[INCORPORATION DATE\]
+Dated: {Effective Date}
 
-<span class="underline"> </span>
+{signature:officer_____}
 
-\[FOUNDER/PRINCIPAL 1 NAME\], Secretary
+{Officer Name}, Secretary

@@ -1,16 +1,16 @@
-> **Drafting note — delete before use:** The board-adopted policy that sets what the company’s AI agent may do on its own, what needs human sign-off, and what is reserved to the board. It implements Article XII of the Bylaws. Fill the bracketed names and the Schedule 1/Schedule 2 limits. For a single-founder company, the one human typically holds every human role noted below.
+> **Drafting note — Markdown-only; do not copy into the DOCX or execution packet:** The board-adopted policy that sets what the company’s AI agent may do on its own, what needs human sign-off, and what is reserved to the board. It implements Article XII of the Bylaws. Complete the curly-braced names and Schedule 1/Schedule 2 fields, and preserve the PandaDoc signature tags. For a single-founder company, the one human typically holds every human role noted below.
 
 **AI GOVERNANCE POLICY**
 
 OF
 
-**\[COMPANY NAME\], INC.**
+**{Company Name Upper}**
 
-Adopted by the Board of Directors on \[DATE\]
+Adopted by the Board of Directors on {Effective Date}
 
 1.  **Purpose and Scope.**
 
-This AI Governance Policy (this “Policy”) is adopted by the Board of Directors (the “Board”) of \[COMPANY NAME\], Inc. (the “Corporation”) under Article XII of the Corporation’s Bylaws. It governs the Corporation’s use of automated systems and artificial-intelligence systems that act as electronic agents of the Corporation (each, an “AI Agent”) within the meaning of the Uniform Electronic Transactions Act (or analogous state law) and the federal Electronic Signatures in Global and National Commerce Act. Actions taken by an AI Agent within the scope of authority granted under this Policy and the Bylaws are the binding acts of the Corporation.
+This AI Governance Policy (this “Policy”) is adopted by the Board of Directors (the “Board”) of {Company Name} (the “Corporation”) under Article XII of the Corporation’s Bylaws. It governs the Corporation’s use of automated systems and artificial-intelligence systems that act as electronic agents of the Corporation (each, an “AI Agent”) within the meaning of the Uniform Electronic Transactions Act (or analogous state law) and the federal Electronic Signatures in Global and National Commerce Act. Actions taken by an AI Agent within the scope of authority granted under this Policy and the Bylaws are the binding acts of the Corporation.
 
 2.  **Designated AI Agent(s).**
 
@@ -18,15 +18,15 @@ The AI Agent(s) authorized to act for the Corporation are identified on Schedule
 
 3.  **AI Oversight Officer.**
 
-The Board shall designate one or more officers, each a natural person, to supervise the AI Agent(s) (each, an “AI Oversight Officer”). The initial AI Oversight Officer is \[NAME\], who also serves as the Corporation’s sole director and as its President and Chief Executive Officer, Secretary, and Treasurer. The AI Oversight Officer is accountable for administering this Policy, maintaining the Audit Log, and reporting to the Board. The AI Agent is a tool of the Corporation and is not an officer or director.
+The Board shall designate one or more officers, each a natural person, to supervise the AI Agent(s) (each, an “AI Oversight Officer”). The initial AI Oversight Officer is {AI Oversight Officer Name}, who serves as an officer of the Corporation. The AI Oversight Officer is accountable for administering this Policy, maintaining the Audit Log, and reporting to the Board. The AI Agent is a tool of the Corporation and is not an officer or director.
 
 4.  **Authorized Actions (no human ratification required).**
 
-Within the limits set on Schedule 2, an AI Agent may take the following actions on behalf of the Corporation without contemporaneous human ratification: (i) negotiate, enter into, and perform routine standard-form commercial contracts (including click-wrap agreements) in the ordinary course with a value at or below $\[THRESHOLD\]; (ii) purchase goods and services in the ordinary course within approved budgets; (iii) communicate with customers, vendors, and counterparties; (iv) create and maintain the Corporation’s books, records, and ordinary regulatory filings; and (v) initiate and receive payments within the limits on Schedule 2.
+Within the limits set on Schedule 2, an AI Agent may take the following actions on behalf of the Corporation without contemporaneous human ratification: (i) negotiate, enter into, and perform routine standard-form commercial contracts (including click-wrap agreements) in the ordinary course with a value at or below {Contract Threshold}; (ii) purchase goods and services in the ordinary course within approved budgets; (iii) communicate with customers, vendors, and counterparties; (iv) create and maintain the Corporation’s books, records, and ordinary regulatory filings; and (v) initiate and receive payments within the limits on Schedule 2.
 
 5.  **Officer-Required Actions (sign-off required).**
 
-The following require the advance approval of the AI Oversight Officer or another officer of the Corporation: (i) any contract with a value above $\[THRESHOLD\] or outside the ordinary course; (ii) engaging, or terminating the engagement of, personnel or contractors; (iii) opening or closing financial accounts; (iv) public statements made in the name of the Corporation; and (v) any matter Schedule 2 designates as requiring advance approval or sign-off prior to taking action.
+The following require the advance approval of the AI Oversight Officer or another officer of the Corporation: (i) any contract with a value above {Contract Threshold} or outside the ordinary course; (ii) engaging, or terminating the engagement of, personnel or contractors; (iii) opening or closing financial accounts; (iv) public statements made in the name of the Corporation; and (v) any matter Schedule 2 designates as requiring advance approval or sign-off prior to taking action.
 
 6.  **Board-Required Actions.**
 
@@ -56,18 +56,18 @@ Routine updates to an AI Agent’s version within the same provider and model fa
 
 Nothing in this Policy limits, modifies, or transfers the fiduciary duties of any director or officer of the Corporation, or authorizes any action that would otherwise breach those duties. Delegating operational tasks to an AI Agent does not relieve any officer or director of the obligation to exercise the oversight required by applicable law.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+{signature:director_____}
 
-\[NAME\], Sole Director
+{Director Name}, Sole Director
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+{signature:officer_____}
 
-\[NAME\], AI Oversight Officer
+{AI Oversight Officer Name}, AI Oversight Officer
 
 **SCHEDULE 1 — DESIGNATED AI AGENT(S)**
 
-\[Identify each AI Agent in use — for example, the model and provider and the interface through which it acts (e.g., “the ‘Operator’ agent built on \[provider\]’s \[model family\], accessed via the company’s application”). Per Section 11, version updates within the same provider and model family are logged in the Audit Log and do not require re-adoption of this Policy.\]
+{AI Agent Description}
 
 **SCHEDULE 2 — AUTHORITY LIMITS**
 
-\[Set the dollar thresholds and category limits referenced in Sections 4–5 — e.g., per-contract and aggregate spending limits, payment limits, approved vendor or budget categories, and any matters that always require Officer or Board sign-off.\]
+{Authority Limits}

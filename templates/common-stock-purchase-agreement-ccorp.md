@@ -1,18 +1,18 @@
-> **Drafting note — delete before use:** Issues founder shares so a human holds the equity and the liability shield. It contemplates a single, fully-vested founder. If vesting provisions are to be included they should be discussed, along with additional processes (most notably the consideration of filing an 83(b) election) with legal counsel and this form should be revised accordingly. Replace bracketed terms.
+> **Drafting note — Markdown-only; do not copy into the DOCX or execution packet:** Issues founder shares so a human holds the equity and the liability shield. It contemplates a single, fully-vested founder. If vesting provisions are to be included they should be discussed, along with additional processes (most notably the consideration of filing an 83(b) election) with legal counsel and this form should be revised accordingly. Complete every `{Field Name}` substitution and preserve the PandaDoc signature tags.
 
 **COMMON STOCK PURCHASE AGREEMENT**
 
-**\[COMPANY NAME\], INC.**
+**{Company Name Upper}**
 
-This Common Stock Purchase Agreement (this “Agreement”) is made as of \[DATE\] between \[COMPANY NAME\], Inc., a Delaware corporation (the “Company”), and \[PURCHASER NAME\] (the “Purchaser”).
+This Common Stock Purchase Agreement (this “Agreement”) is made as of {Effective Date} between {Company Name}, a Delaware corporation (the “Company”), and {Founder Name} (the “Purchaser”).
 
 1.  **Purchase and Sale.**
 
-The Company issues and sells to the Purchaser, and the Purchaser purchases from the Company, \[NUMBER\] shares of the Company’s Common Stock (the “Shares”) at a price of $\[PRICE\] per share, for an aggregate purchase price of $\[AMOUNT\].
+The Company issues and sells to the Purchaser, and the Purchaser purchases from the Company, 1,000,000 shares of the Company’s Common Stock (the “Shares”) at a price of $0.00001 per share, for an aggregate purchase price of $10.00.
 
 2.  **Consideration.**
 
-The purchase price is payable in \[cash / assignment of intellectual property / past services rendered\]. The Company’s Board of Directors has determined the consideration to be adequate under Section 152 of the General Corporation Law of the State of Delaware.
+The purchase price is payable in cash. The Company’s Board of Directors has determined the consideration to be adequate under Section 152 of the General Corporation Law of the State of Delaware.
 
 3.  **Issuance.**
 
@@ -34,12 +34,12 @@ IN WITNESS WHEREOF, the parties have executed this Agreement as of the date firs
 
 **COMPANY**
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+{signature:officer_____}
 
-\[COMPANY NAME\], INC., by \[NAME\], President and Chief Executive Officer
+{Company Name Upper}, by {Officer Name}, President and Chief Executive Officer
 
 **PURCHASER**
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+{signature:founder_____}
 
-\[PURCHASER NAME\]
+{Founder Name}

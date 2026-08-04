@@ -1,10 +1,10 @@
-> **Drafting note — delete before use:** Protects the Company’s Manager as permitted under the Company’s Operating Agreement and 6 Del. C. § 18-108. Use one agreement per indemnitee.
+> **Drafting note — Markdown-only; do not copy into the DOCX or execution packet:** Protects the Company’s Manager as permitted under the Company’s Operating Agreement and 6 Del. C. § 18-108. Use one agreement per indemnitee. Complete every `{Field Name}` substitution and preserve the PandaDoc signature tags.
 
 **INDEMNIFICATION AGREEMENT**
 
-*\[COMPANY NAME\], LLC*
+*{Company Name}*
 
-This Indemnification Agreement (this “Agreement”) is made as of *\[DATE\]* between *\[COMPANY NAME\]*, LLC, a Delaware limited liability company (the “Company”), and *\[INDEMNITEE NAME\]* (the “Indemnitee”), who serves as a Manager of the Company.
+This Indemnification Agreement (this “Agreement”) is made as of *{Effective Date}* between *{Company Name}*, a Delaware limited liability company (the “Company”), and *{Member Name}* (the “Indemnitee”), who serves as a Manager of the Company.
 
 1.  **Indemnification.**
 
@@ -38,12 +38,12 @@ IN WITNESS WHEREOF, the parties have executed this Agreement as of the date firs
 
 **COMPANY**
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+{signature:member_____}
 
-*\[COMPANY NAME\]*, LLC, by *\[NAME\]*, *\[Manager / Authorized Signatory\]*
+*{Company Name}*, by *{Member Name}*, Manager
 
 **INDEMNITEE**
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+{signature:member_____}
 
-*\[INDEMNITEE NAME\]*
+*{Member Name}*

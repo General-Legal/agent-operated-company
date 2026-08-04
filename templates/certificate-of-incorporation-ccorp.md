@@ -1,18 +1,18 @@
-> **Drafting note — delete before use:** A minimal single-class Delaware C-corporation charter for a founder-owned company to be operated by an AI agent under its Bylaws and AI Governance Policy. The AI-governance provisions live in the Bylaws (Article XII) and the AI Governance Policy. Replace all bracketed terms before filing.
+> **Drafting note — Markdown-only; do not copy into the DOCX or execution packet:** A minimal single-class Delaware C-corporation charter for a founder-owned company to be operated by an AI agent under its Bylaws and AI Governance Policy. The AI-governance provisions live in the Bylaws (Article XII) and the AI Governance Policy. Complete every `{Field Name}` substitution before filing and preserve the PandaDoc signature tags.
 
 **CERTIFICATE OF INCORPORATION**
 
 OF
 
-**\[COMPANY NAME\], INC.**
+**{Company Name Upper}**
 
-**FIRST.** The name of the corporation is \[COMPANY NAME\], Inc. (the “Corporation”).
+**FIRST.** The name of the corporation is {Company Name} (the “Corporation”).
 
-**SECOND.** The address of the Corporation’s registered office in the State of Delaware is \[REGISTERED OFFICE ADDRESS\], and the name of its registered agent at that address is \[REGISTERED AGENT NAME\].
+**SECOND.** The address of the Corporation’s registered office in the State of Delaware is {Registered Office Address}, and the name of its registered agent at that address is {Registered Agent Name}.
 
 **THIRD.** The purpose of the Corporation is to engage in any lawful act or activity for which corporations may be organized under the General Corporation Law of the State of Delaware (the “DGCL”).
 
-**FOURTH.** The total number of shares of stock the Corporation is authorized to issue is \[10,000,000\] shares of Common Stock, par value $\[0.00001\] per share.
+**FOURTH.** The total number of shares of stock the Corporation is authorized to issue is 10,000,000 shares of Common Stock, par value $0.00001 per share.
 
 **FIFTH.** The business and affairs of the Corporation shall be managed by or under the direction of the Board of Directors. As required by Section 141(b) of the DGCL, each director shall be a natural person. The number of directors shall be fixed by, or in the manner provided in, the Bylaws.
 
@@ -22,10 +22,10 @@ OF
 
 **EIGHTH.** The Corporation shall indemnify, and may advance expenses to, its directors and officers to the fullest extent permitted by the DGCL. The Corporation may purchase and maintain insurance on behalf of any person against any liability asserted against and incurred by such person in any such capacity.
 
-**NINTH.** The name and mailing address of the incorporator is \[INCORPORATOR NAME\], \[INCORPORATOR ADDRESS\]. The powers of the incorporator shall terminate upon the filing of this Certificate of Incorporation and the election of the initial director(s).
+**NINTH.** The name and mailing address of the incorporator is {Incorporator Name}, {Incorporator Address}. The powers of the incorporator shall terminate upon the filing of this Certificate of Incorporation and the election of the initial director(s).
 
-IN WITNESS WHEREOF, the undersigned incorporator has executed this Certificate of Incorporation on \[DATE\].
+IN WITNESS WHEREOF, the undersigned incorporator has executed this Certificate of Incorporation on {Effective Date}.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+{signature:incorporator_____}
 
-\[INCORPORATOR NAME\], Incorporator
+{Incorporator Name}, Incorporator

@@ -1,10 +1,10 @@
-> **Drafting note — delete before use:** Protects the company’s human director/officer to the fullest extent Delaware law allows — broader and more certain than the Bylaws alone. Use one agreement per indemnitee. Replace bracketed terms.
+> **Drafting note — Markdown-only; do not copy into the DOCX or execution packet:** Protects the company’s human director/officer to the fullest extent Delaware law allows — broader and more certain than the Bylaws alone. Use one agreement per indemnitee. Complete every `{Field Name}` substitution and preserve the PandaDoc signature tags.
 
 **INDEMNIFICATION AGREEMENT**
 
-**\[COMPANY NAME\], INC.**
+**{Company Name Upper}**
 
-This Indemnification Agreement (this “Agreement”) is made as of \[DATE\] between \[COMPANY NAME\], Inc., a Delaware corporation (the “Company”), and \[INDEMNITEE NAME\] (the “Indemnitee”), who serves as a director and/or officer of the Company.
+This Indemnification Agreement (this “Agreement”) is made as of {Effective Date} between {Company Name}, a Delaware corporation (the “Company”), and {Director Name} (the “Indemnitee”), who serves as a director and/or officer of the Company.
 
 1.  **Indemnification.**
 
@@ -22,9 +22,9 @@ To the extent the Indemnitee is successful, on the merits or otherwise, in defen
 
 The rights provided by this Agreement are in addition to, and not exclusive of, any rights the Indemnitee may have under the Certificate of Incorporation, the Bylaws, the DGCL, any insurance policy, any vote of stockholders or directors, or otherwise.
 
-5.  **Directors’ and Officers’ Insurance \[optional\].**
+5.  **Directors’ and Officers’ Insurance.**
 
-The Company \[shall use commercially reasonable efforts to maintain / may maintain\] directors’ and officers’ liability insurance covering the Indemnitee on terms no less favorable than coverage provided to the Company’s other directors and officers.
+The Company may maintain directors’ and officers’ liability insurance covering the Indemnitee on terms no less favorable than coverage provided to the Company’s other directors and officers.
 
 6.  **Continuation and Survival.**
 
@@ -42,12 +42,12 @@ IN WITNESS WHEREOF, the parties have executed this Agreement as of the date firs
 
 **COMPANY**
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+{signature:officer_____}
 
-\[COMPANY NAME\], INC., by \[NAME\], President and Chief Executive Officer
+{Company Name Upper}, by {Officer Name}, President and Chief Executive Officer
 
 **INDEMNITEE**
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+{signature:director_____}
 
-\[INDEMNITEE NAME\]
+{Director Name}

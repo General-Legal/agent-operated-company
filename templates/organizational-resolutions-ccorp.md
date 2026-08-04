@@ -1,14 +1,14 @@
-> **Drafting note — delete before use:** A slim single-founder board organizational consent — the second step after the Action of Incorporator. It elects officers, issues founder stock, and adopts the AI Governance Policy required by Bylaws Article XII. For a sole director, the one director signs. Replace bracketed terms; add or remove resolutions to fit.
+> **Drafting note — Markdown-only; do not copy into the DOCX or execution packet:** A slim single-founder board organizational consent — the second step after the Action of Incorporator. It elects officers, issues founder stock, and adopts the AI Governance Policy required by Bylaws Article XII. For a sole director, the one director signs. Complete every `{Field Name}` substitution and preserve the PandaDoc signature tags; add or remove resolutions to fit.
 
 **ACTION BY WRITTEN CONSENT**
 
 OF THE BOARD OF DIRECTORS OF
 
-**\[COMPANY NAME\], INC.**
+**{Company Name Upper}**
 
-\[DATE\]
+{Effective Date}
 
-Pursuant to Section 141(f) of the General Corporation Law of the State of Delaware (the “DGCL”), the undersigned, being all of the directors of \[COMPANY NAME\], Inc., a Delaware corporation (the “Corporation”), adopt the following resolutions by written consent without a meeting:
+Pursuant to Section 141(f) of the General Corporation Law of the State of Delaware (the “DGCL”), the undersigned, being all of the directors of {Company Name}, a Delaware corporation (the “Corporation”), adopt the following resolutions by written consent without a meeting:
 
 1.  **Ratification of Incorporator’s Actions.**
 
@@ -20,19 +20,19 @@ RESOLVED, that the Certificate of Incorporation filed with the Delaware Secretar
 
 3.  **Principal Office.**
 
-RESOLVED, that the principal office of the Corporation shall be located at \[PRINCIPAL OFFICE ADDRESS\], and that the officers may change the location of the principal office from time to time.
+RESOLVED, that the principal office of the Corporation shall be located at {Principal Office Address}, and that the officers may change the location of the principal office from time to time.
 
 4.  **Election of Officers.**
 
-RESOLVED, that the following natural person is elected to the offices set forth opposite their name, each to serve until a successor is elected or until earlier resignation or removal: \[NAME\] — President and Chief Executive Officer, Secretary, and Treasurer. \[List additional officers if the founder chooses to separate these roles.\]
+RESOLVED, that the following natural person is elected to the offices set forth opposite their name, each to serve until a successor is elected or until earlier resignation or removal: {Officer Name} — President and Chief Executive Officer, Secretary, and Treasurer.
 
 5.  **Issuance of Founder Stock.**
 
-RESOLVED, that the Corporation shall sell and issue to \[FOUNDER NAME\] \[NUMBER\] shares of the Corporation’s Common Stock at a price of $\[PRICE\] per share, for aggregate consideration of $\[AMOUNT\] payable in \[cash / assignment of intellectual property / past services rendered\], which the Board determines to be adequate consideration under Section 152 of the DGCL; and RESOLVED FURTHER, that upon the Corporation’s receipt of the consideration and a signed Common Stock Purchase Agreement in substantially the form attached hereto as Exhibit A, the shares shall be duly authorized, validly issued, fully paid, and non-assessable, and shall be recorded in the Corporation’s stock ledger.
+RESOLVED, that the Corporation shall sell and issue to {Founder Name} 1,000,000 shares of the Corporation’s Common Stock at a price of $0.00001 per share, for aggregate consideration of $10.00 payable in cash, which the Board determines to be adequate consideration under Section 152 of the DGCL; and RESOLVED FURTHER, that upon the Corporation’s receipt of the consideration and a signed Common Stock Purchase Agreement in substantially the form attached hereto as Exhibit A, the shares shall be duly authorized, validly issued, fully paid, and non-assessable, and shall be recorded in the Corporation’s stock ledger.
 
 6.  **Adoption of AI Governance Policy.**
 
-WHEREAS, Article XII of the Bylaws requires the Board to adopt and maintain a written AI Governance Policy; NOW, THEREFORE, RESOLVED, that the AI Governance Policy presented to the Board is adopted as the Corporation’s AI Governance Policy; RESOLVED FURTHER, that the AI system identified on Schedule 1 to that Policy is designated as the Corporation’s AI Agent and that \[NAME\] is designated as the initial AI Oversight Officer; and RESOLVED FURTHER, that the officers are authorized to maintain the Audit Log and deliver the quarterly reports the Policy requires.
+WHEREAS, Article XII of the Bylaws requires the Board to adopt and maintain a written AI Governance Policy; NOW, THEREFORE, RESOLVED, that the AI Governance Policy presented to the Board is adopted as the Corporation’s AI Governance Policy; RESOLVED FURTHER, that the AI system identified on Schedule 1 to that Policy is designated as the Corporation’s AI Agent and that {Officer Name} is designated as the initial AI Oversight Officer; and RESOLVED FURTHER, that the officers are authorized to maintain the Audit Log and deliver the quarterly reports the Policy requires.
 
 7.  **Bank Accounts.**
 
@@ -44,7 +44,7 @@ RESOLVED, that the officers are authorized to obtain an Employer Identification 
 
 9.  **Fiscal Year.**
 
-RESOLVED, that the fiscal year of the Corporation shall end on \[December 31\] of each year.
+RESOLVED, that the fiscal year of the Corporation shall end on December 31 of each year.
 
 10. **Indemnification Agreement.**
 
@@ -58,18 +58,18 @@ RESOLVED, that the officers of the Corporation are authorized to take all furthe
 
 IN WITNESS WHEREOF, the undersigned has executed this Action by Written Consent as of the date first written above, effective under Sections 141(f) and 116 of the DGCL.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+{signature:director_____}
 
-\[DIRECTOR NAME\], Director
+{Director Name}, Director
 
 **Exhibit A**
 
 **Form of Common Stock Purchase Agreement**
 
-**\[Attached\]**
+The Common Stock Purchase Agreement follows in this execution packet.
 
 **Exhibit B**
 
 Form of Indemnification Agreement
 
-\[Attached\]
+The Indemnification Agreement follows in this execution packet.

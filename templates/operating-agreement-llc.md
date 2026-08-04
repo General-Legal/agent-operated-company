@@ -1,4 +1,4 @@
-> **Drafting note — delete before use:** A single-member, manager-managed Delaware LLC operating agreement built to run through an AI agent as the company’s “electronic agent,” with a human Manager supervising. The capital contribution is stated inline in Section 5 (no separate exhibit). For multiple members, expand the noted sections with a lawyer. Replace bracketed terms.
+> **Drafting note — Markdown-only; do not copy into the DOCX or execution packet:** A single-member, manager-managed Delaware LLC operating agreement built to run through an AI agent as the company’s “electronic agent,” with a human Manager supervising. The capital contribution is stated inline in Section 5 (no separate exhibit). For multiple members, expand the noted sections with a lawyer. Complete every `{Field Name}` substitution and preserve the PandaDoc signature tags.
 
 **LIMITED LIABILITY COMPANY**
 
@@ -6,11 +6,11 @@
 
 OF
 
-**\[COMPANY NAME\], LLC**
+**{Company Name}**
 
 a Delaware limited liability company
 
-This Operating Agreement (this “Agreement”) of \[COMPANY NAME\], LLC (the “Company”) is entered into and effective as of \[DATE\] by \[MEMBER NAME\] (the “Member”).
+This Operating Agreement (this “Agreement”) of {Company Name} (the “Company”) is entered into and effective as of {Effective Date} by {Member Name} (the “Member”).
 
 1.  **Formation.**
 
@@ -18,7 +18,7 @@ The Company was formed by filing a Certificate of Formation with the Delaware Se
 
 2.  **Name; Purpose; Term.**
 
-The name of the Company is \[COMPANY NAME\], LLC. The Company may engage in any lawful act or activity for which a limited liability company may be organized under the Act. The term of the Company is perpetual unless the Company is dissolved under Section 13.
+The name of the Company is {Company Name}. The Company may engage in any lawful act or activity for which a limited liability company may be organized under the Act. The term of the Company is perpetual unless the Company is dissolved under Section 13.
 
 3.  **Registered Office and Agent.**
 
@@ -26,11 +26,11 @@ The Company shall continuously maintain a registered office and a registered age
 
 4.  **Member; Membership Interest.**
 
-The Company initially has one member, \[MEMBER NAME\], who holds 100% of the membership interests of the Company. \[For multiple members, attach a schedule of members and percentage interests and expand Sections 5–7, 9, and 13 accordingly with counsel.\]The form membership interest purchase agreement attached hereto as Exhibit A is hereby approved.
+The Company initially has one member, {Member Name}, who holds 100% of the membership interests of the Company. The form membership interest purchase agreement attached hereto as Exhibit A is hereby approved.
 
 5.  **Capital Contribution.**
 
-The Member has contributed (or shall contribute) to the capital of the Company $\[AMOUNT\] in exchange for the membership interests as set forth in such Member’s membership interest purchase agreement \[and/or the property or past services described here\]. The Member is not obligated to make additional capital contributions and is not personally liable for the debts or obligations of the Company solely by reason of being a member or manager (Act § 18-303).
+The Member has contributed (or shall contribute) to the capital of the Company $10.00 in exchange for the membership interests as set forth in such Member’s membership interest purchase agreement. The Member is not obligated to make additional capital contributions and is not personally liable for the debts or obligations of the Company solely by reason of being a member or manager (Act § 18-303).
 
 6.  **Distributions.**
 
@@ -38,11 +38,11 @@ The Manager may cause the Company to make distributions to the Member at such ti
 
 7.  **Allocations; Tax Classification.**
 
-The profits and losses of the Company are allocated to the Member. By default, the Company is a disregarded entity for federal income tax purposes (single member); the Company may elect to be taxed as an S-corporation or a C-corporation if eligible and desirable. \[Consult a tax advisor; see the filing instructions on the S-election.\]
+The profits and losses of the Company are allocated to the Member. By default, the Company is a disregarded entity for federal income tax purposes (single member); the Company may elect to be taxed as an S-corporation or a C-corporation if eligible and desirable.
 
 8.  **Management; Human Manager.**
 
-The Company is manager-managed. The initial Manager is \[MANAGER NAME\], a natural person. The Manager has full authority to manage the business and affairs of the Company and to bind the Company, subject to this Agreement and any AI Governance Policy adopted under Section 9. The Manager remains responsible for supervising any electronic agent and owes the Member the duties provided under the Act, as modified by this Agreement.
+The Company is manager-managed. The initial Manager is {Member Name}, a natural person. The Manager has full authority to manage the business and affairs of the Company and to bind the Company, subject to this Agreement and any AI Governance Policy adopted under Section 9. The Manager remains responsible for supervising any electronic agent and owes the Member the duties provided under the Act, as modified by this Agreement.
 
 9.  **Electronic Agents; AI Governance Policy.**
 
@@ -64,7 +64,7 @@ The Company shall keep accurate books and records, maintain one or more separate
 
 12. **Transfers.**
 
-The Member may transfer its membership interest subject to the Act and applicable securities laws. \[For multi-member companies, add transfer restrictions, a right of first refusal, and admission mechanics with counsel.\]
+The Member may transfer its membership interest subject to the Act and applicable securities laws.
 
 13. **Dissolution and Winding Up.**
 
@@ -76,22 +76,22 @@ This Agreement is governed by the laws of the State of Delaware, may be amended 
 
 IN WITNESS WHEREOF, the Member has executed this Agreement as of the date first written above.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+{signature:member_____}
 
-\[MEMBER NAME\], Member
+{Member Name}, Member
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+{signature:member_____}
 
-\[MANAGER NAME\], Manager (acknowledging the duties in Sections 8–9)
+{Member Name}, Manager (acknowledging the duties in Sections 8–9)
 
 **Exhibit A**
 
 **Form of Membership Interest Purchase Agreement**
 
-**\[Attached\]**
+The Membership Interest Purchase Agreement follows in this execution packet.
 
 **Exhibit B**
 
 **Form of Indemnification Agreement**
 
-**\[Attached\]**
+The Indemnification Agreement follows in this execution packet.

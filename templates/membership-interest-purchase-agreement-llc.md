@@ -1,18 +1,18 @@
-> **Drafting note — delete before use:** Issues founder Membership Interests so a human holds the equity of the LLC. Confirm with counsel and the Company’s tax advisors whether the Purchaser’s admission as a Member affects the Purchaser’s ability to simultaneously be treated as a W-2 employee — under longstanding IRS guidance (Rev. Rul. 69-184, reinforced by Treasury regulations finalized in 2016), a partner/member in an entity taxed as a partnership generally cannot also be its employee, which may require restructuring compensation as guaranteed payments or self-employment income. Replace bracketed terms.
+> **Drafting note — Markdown-only; do not copy into the DOCX or execution packet:** Issues founder Membership Interests so a human holds the equity of the LLC. Confirm with counsel and the Company’s tax advisors whether the Purchaser’s admission as a Member affects the Purchaser’s ability to simultaneously be treated as a W-2 employee — under longstanding IRS guidance (Rev. Rul. 69-184, reinforced by Treasury regulations finalized in 2016), a partner/member in an entity taxed as a partnership generally cannot also be its employee, which may require restructuring compensation as guaranteed payments or self-employment income. Complete every `{Field Name}` substitution and preserve the PandaDoc signature tags.
 
 **MEMBERSHIP INTEREST PURCHASE AGREEMENT**
 
-*\[COMPANY NAME\], LLC*
+*{Company Name}*
 
-This Membership Interest Purchase Agreement (this “Agreement”) is made as of *\[DATE\]* between *\[COMPANY NAME\]*, LLC, a Delaware limited liability company (the “Company”), and *\[PURCHASER NAME\]* (the “Purchaser”).
+This Membership Interest Purchase Agreement (this “Agreement”) is made as of *{Effective Date}* between *{Company Name}*, a Delaware limited liability company (the “Company”), and *{Member Name}* (the “Purchaser”).
 
 1.  **Purchase and Sale.**
 
-The Company issues and sells to the Purchaser, and the Purchaser purchases from the Company, *\[NUMBER\]* membership interests (the “Membership Interest”), representing a *\[PERCENTAGE\]*% membership interest in the Company as of the date of this Agreement, at a price of $*\[PRICE\]* per Membership Interest, for an aggregate purchase price of $*\[AMOUNT\]* (the “Purchase Price”).
+The Company issues and sells to the Purchaser, and the Purchaser purchases from the Company, 100 membership interests (the “Membership Interest”), representing a 100% membership interest in the Company as of the date of this Agreement, at a price of $0.10 per Membership Interest, for an aggregate purchase price of $10.00 (the “Purchase Price”).
 
 2.  **Consideration.**
 
-The Purchase Price is payable in *\[cash / assignment of intellectual property / past services rendered\]*. The Manager(s) of the Company have determined the consideration to be adequate in accordance with the Company’s Operating Agreement, as amended from time to time (the “Operating Agreement”).
+The Purchase Price is payable in cash. The Manager(s) of the Company have determined the consideration to be adequate in accordance with the Company’s Operating Agreement, as amended from time to time (the “Operating Agreement”).
 
 3.  **Issuance; Admission as Member.**
 
@@ -34,12 +34,12 @@ IN WITNESS WHEREOF, the parties have executed this Agreement as of the date firs
 
 **COMPANY**
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+{signature:member_____}
 
-*\[COMPANY NAME\]*, LLC, by *\[NAME\]*, *\[Manager / Authorized Signatory\]*
+*{Company Name}*, by *{Member Name}*, Manager
 
 **PURCHASER**
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+{signature:member_____}
 
-*\[PURCHASER NAME\]*
+*{Member Name}*
