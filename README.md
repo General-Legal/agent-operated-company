@@ -1,46 +1,41 @@
-# Agent-Operated Company — Free Incorporation Templates
+# Agent-Operated Company - Free Incorporation Templates
 
 > Open-source legal templates and step-by-step instructions to form a U.S. company that an **AI agent** can operate day-to-day, while a human owner keeps control and limited-liability protection. Maintained by [General Legal](https://general.legal).
 
 ## What this is
 
-A complete, free starter kit for **agent-controlled incorporation**: forming a normal U.S. company (an LLC or a C-corporation) that is built to be run by an AI agent acting as the company's "electronic agent," under a governance policy a human board adopts and oversees.
+A free starter kit for forming a Delaware LLC or C-corporation designed to operate through an AI agent under human oversight.
 
 It includes:
 
-- `templates/` — the formation documents, each provided as both a file-ready Word `.docx` (Times New Roman, native numbering) and a Markdown `.md` mirror, and labeled by entity type (`-ccorp` / `-llc`): the charter, Action of Incorporator, bylaws/operating agreement, AI Governance Policy (separate C-corp and LLC versions), ownership issuance (stock purchase / membership interest purchase), organizational resolutions, stockholder consent, and indemnification (director / LLC manager).
-- `filing-instructions/` — how to actually file (Delaware and home-state), get an EIN, appoint a registered agent, and open a bank account.
+- `templates/` - authoritative Word `.docx` formation and governance documents for C-corporations and LLCs.
+- `manifest.json` - packet order, signer roles, substitution fields, and state-filing metadata.
+- `filing-instructions/` - instructions for filing, obtaining an EIN, appointing a registered agent, and opening a bank account.
 
-## Two ways to use it
+The Word documents use literal `{Field Name}` substitutions. PandaDoc signature fields use tags such as `{signature:founder_____}`; PandaDoc converts these tags into fields assigned to the matching recipient role during upload. `Company Name` means the full legal name, including its entity suffix and punctuation.
 
-1. **Do it yourself.** Use the templates and follow `filing-instructions/`. The standard case is genuinely DIY-able.
-2. **Have General Legal file it for you.** $50 for a standard single-class LLC or C-corp (you also pay the state filing fee and registered agent). Engagement is a clickthrough; we run a quick conflicts check and then file as your lawyer. Sign up [here](https://portal.general.legal/signup?utm_source=github&utm_medium=repo&utm_campaign=agent-operated-company)
-3. **Via MCP.** You can also ask General Legal to incorporate an agent-operated company for you via MCP. First, sign up using the [link](https://portal.general.legal/signup?utm_source=github&utm_medium=repo&utm_campaign=agent-operated-company) above, and then connect to the MCP here: (`https://mcp.general.legal/mcp`, Streamable HTTP + OAuth 2.1) and have your agent of choice ask General Legal to set up an agent-operated company. Note, setting up a company requires filing with the Delaware state government, which can take time, so instruct your agent to check back over hours to days until the process is complete.
+Each Word template has a same-basename Markdown companion for AI-assisted drafting. The Markdown file mirrors the operative document content but may also begin with a `Drafting note` block containing completion instructions. Those instructions are intentionally Markdown-only: preserve them when synchronizing the pair, and never copy them into a filing, signature packet, or `.docx` template.
+
+## Ways to use it
+
+1. **Do it yourself.** Use the templates and follow `filing-instructions/`.
+2. **Have General Legal file it for you.** General Legal charges $50 for a standard single-class LLC or C-corporation, plus state and registered-agent fees. [Sign up here](https://portal.general.legal/signup?utm_source=github&utm_medium=repo&utm_campaign=agent-operated-company).
+3. **Via MCP.** Connect to `https://mcp.general.legal/mcp` using Streamable HTTP and OAuth 2.1 after signing up through the link above.
 
 ## Quickstart
 
 1. Read `filing-instructions/README.md`.
-2. Pick your entity (`templates/certificate-of-formation-llc.md` or `templates/certificate-of-incorporation-ccorp.md`). See the decision guide in the filing instructions.
-3. Fill the `[BRACKETED]` placeholders, file the charter with the state, appoint a registered agent, and get a free EIN from the IRS.
-4. Adopt the internal documents (bylaws/operating agreement, AI Governance Policy, organizational resolutions, ownership issuance, stockholder consent (corp), indemnification).
-5. **Open a separate business bank account and keep the liability shield intact** — see `filing-instructions/README.md` (this step is not optional).
+2. Choose `templates/certificate-of-formation-llc.docx` or `templates/certificate-of-incorporation-ccorp.docx`.
+3. Fill every `{Field Name}` substitution and file only the applicable certificate with the state.
+4. Execute the remaining documents in the entity packet in the order listed by `manifest.json`.
+5. Obtain an EIN, open a separate business bank account, and observe the governance and recordkeeping requirements.
 
 ## Disclaimer
 
-These templates and instructions are provided for **general informational
-purposes only** and do **not** constitute legal, tax, or accounting advice.
+These templates and instructions are provided for general informational purposes only and do not constitute legal, tax, or accounting advice.
 
-- Using these materials does **not** create an attorney-client relationship
-  with General Legal, LLP. An attorney-client relationship is formed only when
-  General Legal expressly agrees to represent you, after a conflicts check and a
-  signed (including clickthrough) engagement letter.
-- Forming a company and delegating authority to an AI agent involves legal
-  questions that depend on your specific facts and jurisdiction. The law in this
-  area is still developing.
-- You are responsible for the practices that preserve your limited-liability
-  protection (a separate business bank account, adequate capitalization, and
-  observing corporate formalities). Forming the entity is necessary but not
-  sufficient.
+- Using these materials does not create an attorney-client relationship with General Legal, LLP. A relationship is formed only after General Legal agrees to represent you following a conflicts check and a signed or clickthrough engagement letter.
+- Forming a company and delegating authority to an AI agent involves legal questions that depend on the facts and jurisdiction.
+- Forming the entity is not sufficient by itself to preserve limited-liability protection. Maintain a separate bank account, adequate capitalization, and appropriate corporate formalities.
 
-For advice about your situation, or to have General Legal file for you, engage
-us at https://portal.general.legal/signup?utm_source=github&utm_medium=repo&utm_campaign=agent-operated-company.
+For advice or filing assistance, [engage General Legal](https://portal.general.legal/signup?utm_source=github&utm_medium=repo&utm_campaign=agent-operated-company).
