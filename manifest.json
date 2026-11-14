@@ -380,7 +380,7 @@
   "disclaimer": "Informational only; not legal advice; no attorney-client relationship is formed by using the free templates. Engagement forms only via the Limited Engagement Letter after a conflicts check.",
   "compliance": {
     "sanctions_screen": "Run an OFAC sanctions screen (SDN + Consolidated lists) on the human principal, the company name, and any 25%+ owners for EVERY matter before acting; on any hit, block and escalate to a human. Strict-liability -- do not transact with sanctioned persons.",
-    "geoblocking": "Block site access from comprehensively sanctioned regions (e.g., Cuba, Iran, North Korea, Syria, Crimea/DNR/LNR). Handled at the website/edge layer in a separate project, not in this repo.",
+    "geoblocking": "Block site access from comprehensively sanctioned regions (e.g., Cuba, Iran, North Korea, Crimea/DNR/LNR). Handled at the website/edge layer in a separate project, not in this repo.",
     "no_secrets": "Screening-provider API keys/endpoints live in environment/secrets and are never committed to this (public) repo."
   },
   "formats": {
